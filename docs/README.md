@@ -2,3 +2,4 @@
 
 TODO:
 - Add about doc
+- Add contact
