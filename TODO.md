@@ -12,19 +12,19 @@ Two developers will complete this task together. One of you will complete tasks 
 - [x] 6. Create a pull request and assign it to another developer. The reviewer will merge it with develop.
 - [x] 7. Sync your develop branch with the origin so that everyone has the updated index.html file.
 - [ ] 8. Create two branches from "develop" named "fix/footer-link" and "fix/footer-menu" and hange on the same line (index.html) from two branches and create two different pull requests.After merging the first pull request 2nd one shows a conflict.you will resolve the conflict locally and push the updated code and merge the pull request.[this task need to complete by both developer]
-- [ ] 9. Also exercise the flow from here: [https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
-    - [ ] Create branch "topic/docs-readme" from "develop" branch. (Person-1)
-    - [ ] Create branch "topic/readme" from "develop" branch. (Person-1)
-    - [ ] In "topic/docs-readme" branch:
-        - [ ] Create folder named "docs" and add a file inside "docs/README.md"
-        - [ ] Add documentaion on "docs/README.md" file and commits on it.
-    - [ ] In "topic/readme" branch:
-        - [ ] Update "README.md"
-        - [ ] Commits on it.
-    - [ ] Then make some commits on both branches "topic/docs-readme" and "topic/readme".
-    - [ ] Create pull request (PR) with assigne reviewer
-    - [ ] Review code changes
-    - [ ] Fix reviewer comment if needs and commit again.
-    - [ ] Merge "topic/docs-readme" to "develop" branch
-    - [ ] Merge "topic/readme" to "develop" branch
-- [ ] 10. After completing all the points share your git repository
+- [x] 9. Also exercise the flow from here: [https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
+    - [x] Create branch "topic/docs-readme" from "develop" branch. (Person-1)
+    - [x] Create branch "topic/readme" from "develop" branch. (Person-2)
+    - [x] In "topic/docs-readme" branch:
+        - [x] Create folder named "docs" and add a file inside "docs/README.md"
+        - [x] Add documentaion on "docs/README.md" file and commits on it.
+    - [x] In "topic/readme" branch:
+        - [x] Update "README.md"
+        - [x] Commits on it.
+    - [x] Then make some commits on both branches "topic/docs-readme" and "topic/readme".
+    - [x] Create pull request (PR) with assigne reviewer
+    - [x] Review code changes
+    - [x] Fix reviewer comment if needs and commit again.
+    - [x] Merge "topic/docs-readme" to "develop" branch
+    - [x] Merge "topic/readme" to "develop" branch
+- [x] 10. After completing all the points share your git repository
