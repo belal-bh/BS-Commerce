@@ -4,13 +4,13 @@ Suppose you are starting an eCommerce project name "BS-Commerce". There will be 
 
 Two developers will complete this task together. One of you will complete tasks 1 and 2.
 
-- [x] 1.Create an empty git repository.
+- [x] 1. Create an empty git repository.
 - [x] 2. Publish the repository in the GitHub account.
 - [x] 3. Setup the ssh key so you can perform git operation without username and password.
 - [x] 4. Create a develop branch.
-- [ ] 5. Create a branch named "features/add-index-html" and commit a sample HTML file(index.html).
-- [ ] 6. Create a pull request and assign it to another developer. The reviewer will merge it with develop.
-- [ ] 7. Sync your develop branch with the origin so that everyone has the updated index.html file.
+- [x] 5. Create a branch named "features/add-index-html" and commit a sample HTML file(index.html).
+- [x] 6. Create a pull request and assign it to another developer. The reviewer will merge it with develop.
+- [x] 7. Sync your develop branch with the origin so that everyone has the updated index.html file.
 - [ ] 8. Create two branches from "develop" named "fix/footer-link" and "fix/footer-menu" and hange on the same line (index.html) from two branches and create two different pull requests.After merging the first pull request 2nd one shows a conflict.you will resolve the conflict locally and push the updated code and merge the pull request.[this task need to complete by both developer]
 - [ ] 9. Also exercise the flow from here: [https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
     - [ ] Create branch "topic/docs-readme" from "develop" branch. (Person-1)
